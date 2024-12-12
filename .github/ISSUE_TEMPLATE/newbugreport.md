@@ -60,7 +60,7 @@ body:
     attributes:
       label: Code of Conduct
       description: By submitting this issue, you agree to follow our [Code of Conduct]
-(https://example.com)
+(https://example.com).
       option:
         - label: I agree to follow this project's Code of Conduct
           required: true
